@@ -12,7 +12,7 @@
 param ( 
     # The certificate location. 
     [Parameter()] 
-    [String]$certLocation, 
+    [String]$certLocation
  ) 
  
 Write-Output $certLocation
